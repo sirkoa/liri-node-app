@@ -9,9 +9,3 @@ var twitterKeys = {
 
 module.exports = twitterKeys;
 
-var spotifyKeys = {
-	client_id: '21050ce5bc844471b195ce08b8ecbe73',
-	clientsecret: 'ec9d203597e7471184888900ff84015a'
-}
-
-module.exports = spotifyKeys;
