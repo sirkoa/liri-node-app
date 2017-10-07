@@ -1,5 +1,5 @@
 {
-  "name": "liri-node-app",
+  "name": "cd",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -20,5 +20,6 @@
     "node-spotify-api": "^1.0.7",
     "request": "^2.83.0",
     "twitter": "^1.7.1"
-  }
+  },
+  "devDependencies": {}
 }
